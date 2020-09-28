@@ -9,7 +9,7 @@ dependencies:
   - simplegeneric # for rpy2
   - rpy2
   - numpy=1.15.4
-  - icu=56.1
+  - icu=64.2
   # R packages
   - r-base=3.6.2
   - r-ggplot2
