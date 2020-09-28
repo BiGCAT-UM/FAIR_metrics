@@ -11,5 +11,5 @@ dependencies:
   - numpy=1.15.4
   - icu=56.1
   # R packages
-  - r-base=3.4.1
+  - r-base=3.6.2
   - r-ggplot2
